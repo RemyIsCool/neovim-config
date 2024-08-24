@@ -1,2 +1,2 @@
-# nvim-conf
+# Neovim Config
 My minimal neovim config
